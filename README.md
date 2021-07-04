@@ -1,2 +1,2 @@
 # Quadratic-Formula
-This helps solve a complicated math formula
+This program helps solve a complicated math formula
